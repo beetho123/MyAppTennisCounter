@@ -1,0 +1,30 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FF9800</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FFFFFF</item>
+    </style>
+
+    <style name="AppTheme.Button" parent="Theme.AppCompat.Light">
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#A5FF2B</item>
+        <item name="android:textColor">#001F3A</item>
+    </style>
+
+    <style name="AppTheme.Button.Set" parent="Theme.AppCompat.Light">
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#009FE3</item>
+        <item name="android:textColor">#001F3A</item>
+    </style>
+
+    <style name="Theme.EditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#A5FF2B</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+
+    </style>
+</resources>
